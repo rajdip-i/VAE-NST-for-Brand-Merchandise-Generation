@@ -1,2 +1,2 @@
 # VAE-NST-for-Brand-Merchandise-Generation
-Variational Auto Encoder and Neural Style Transfer Application
+I developed a Variational Autoencoder (VAE) from scratch to generate new clothing designs and extract key features from a fashion dataset. Additionally, I employed VGG-19 transfer learning to perform Neural Style Transfer, which allowed me to create brand-specific merchandise designs. Through extensive experimentation with more than 10 different layer combinations, I optimized the variational loss function, resulting in a significant improvement in image quality by up to 23%.
